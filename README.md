@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -23,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
