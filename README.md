@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
