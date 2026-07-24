@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Simulation
 |  |
@@ -147,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
