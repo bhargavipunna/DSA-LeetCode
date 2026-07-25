@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
