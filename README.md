@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0091-decode-ways) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
