@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0091-decode-ways) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1291-sequential-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
