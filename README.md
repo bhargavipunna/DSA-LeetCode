@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
