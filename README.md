@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0091-decode-ways) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
