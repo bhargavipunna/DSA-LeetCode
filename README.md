@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 ## Linked List
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
