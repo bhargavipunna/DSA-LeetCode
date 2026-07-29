@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 ## Backtracking
 |  |
 | ------- |
