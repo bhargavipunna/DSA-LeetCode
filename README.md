@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Backtracking
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Stack
