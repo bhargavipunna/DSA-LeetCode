@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
 | ------- |
