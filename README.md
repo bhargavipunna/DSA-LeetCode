@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
