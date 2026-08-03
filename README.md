@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
