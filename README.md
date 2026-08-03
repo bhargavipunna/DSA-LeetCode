@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0312-burst-balloons) |
+| [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 ## String
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
@@ -318,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
