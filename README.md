@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0139-word-break) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
