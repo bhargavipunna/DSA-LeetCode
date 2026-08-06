@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
+| [0394-decode-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
