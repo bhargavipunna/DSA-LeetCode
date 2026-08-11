@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1906-minimum-absolute-difference-queries](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 ## Simulation
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
