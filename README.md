@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
