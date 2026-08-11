@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1906-minimum-absolute-difference-queries](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 ## Hash Table
 |  |
@@ -370,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1906-minimum-absolute-difference-queries](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
 <!---LeetCode Topics End-->
