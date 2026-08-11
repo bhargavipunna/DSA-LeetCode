@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1906-minimum-absolute-difference-queries](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 ## Simulation
 |  |
 | ------- |
