@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
+| [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0494-target-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 ## Linked List
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
+| [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
