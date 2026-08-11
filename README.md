@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
