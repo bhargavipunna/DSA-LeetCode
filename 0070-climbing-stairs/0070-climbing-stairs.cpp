@@ -1,40 +1,16 @@
-// class Solution {
-// public:
-//     int climbStairs(int n) {
-//         // if (n <= 2) return n;
-
-//         // int prev2 = 1; 
-//         // int prev1 = 2; 
-
-//         // for (int i = 3; i <= n; i++) {
-//         //     int curr = prev1 + prev2;
-//         //     prev2 = prev1;
-//         //     prev1 = curr;
-//         // }
-//         // return prev1;
-        
-//     }
-// };
 class Solution {
-private:
-    unordered_map<int, int> memo;
-    
-    int climb(int n) {
-        // Base cases
-        if (n <= 2) return n;
-        
-        // Check if already computed
-        if (memo.find(n) != memo.end()) {
-            return memo[n];
-        }
-        
-        // Compute and store in memo
-        memo[n] = climb(n - 1) + climb(n - 2);
-        return memo[n];
-    }
-    
 public:
+    int help(int n,vector<int>&dp){
+        if(n==1 || n==2){
+            return dp[n]=n;
+        }
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        return dp[n] = help(n-1,dp)+help(n-2,dp);
+    }
     int climbStairs(int n) {
-        return climb(n);
+        vector<int>dp(n+1,-1);
+        return help(n,dp);
     }
 };
