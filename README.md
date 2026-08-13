@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1791-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |
