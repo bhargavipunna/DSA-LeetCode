@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1642-furthest-building-you-can-reach) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0139-word-break) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
+| [0997-find-the-town-judge](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
