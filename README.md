@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
