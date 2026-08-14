@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1906-minimum-absolute-difference-queries](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
