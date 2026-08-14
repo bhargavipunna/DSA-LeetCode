@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0997-find-the-town-judge) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0263-ugly-number) |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
