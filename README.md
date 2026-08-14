@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
