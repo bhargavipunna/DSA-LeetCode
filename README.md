@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
