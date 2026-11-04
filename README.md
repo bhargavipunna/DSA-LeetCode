@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0887-super-egg-drop) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
