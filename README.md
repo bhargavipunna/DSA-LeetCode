@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0518-coin-change-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0630-course-schedule-iii) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0343-integer-break) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/bhargavipunna/DSA-LeetCode/tree/master/0738-monotone-increasing-digits) |
